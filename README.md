@@ -1,4 +1,4 @@
-# PM25-DataSource
+# Stage 1: PM25-DataSource
 ## Please cite the paper if using the code
 Jupyer notebooks in this repo are used to download and visualize the data used for PM2.5 modeling in the paper.
 ##### AQS_PM25.ipynb is for AQS houlry averaged PM2.5 dowload from more than 800 monityoring stations across US.
